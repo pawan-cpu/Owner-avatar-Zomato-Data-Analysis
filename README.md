@@ -1,6 +1,5 @@
 # Zomato Data Analysis
 
-# Inspiration
 - Conducted exploratory data analysis (EDA) to extract insights on the top 5% of highly rated restaurants and their pricing strategies.
 -  Provided actionable insights that helped restaurant owners improve customer satisfaction by 15%.
 
