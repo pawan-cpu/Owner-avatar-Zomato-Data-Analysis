@@ -2,11 +2,11 @@
 
 # Inspiration
 - Conducted exploratory data analysis (EDA) to extract insights on the top 5% of highly rated restaurants and their pricing strategies.
--  Provided actionable insights that helped restaurant owners improve customer satisfaction by 15%
+-  Provided actionable insights that helped restaurant owners improve customer satisfaction by 15%.
 
   
 ## Github
-Github: 
+Github: https://github.com/pawan-cpu/Zomato-Data-Analysis
 
 
 ## Try it out
